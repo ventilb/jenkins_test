@@ -7,3 +7,6 @@ The idea is to commit into a local repository. Have Jenkins build the project an
 should be committed github.
 
 Ok i now have two references HEAD and master o_O
+
+* 12.01.2014 new test
+** had to run git config remote.github_repo.url "<github url>" in a shell script
